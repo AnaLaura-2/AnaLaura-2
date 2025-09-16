@@ -90,7 +90,7 @@ Este repositório do GitHub é onde compartilho meus projetos, experimentos e jo
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnaLaura-2&show_icons=true&theme=tokyonight&hide_border=true" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaLAura-2&layout=compact&theme=tokyonight&hide_border=true" height="205"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaLaura-2&layout=compact&theme=tokyonight&hide_border=true" height="205"/>
 </div>
 
 ---
