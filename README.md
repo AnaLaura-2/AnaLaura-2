@@ -100,10 +100,8 @@ Este repositório do GitHub é onde compartilho meus projetos, experimentos e jo
 <div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnaLaura-2&theme=dark&hide_border=true)
-
 ---
 
----
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnaLaura-2/AnaLaura-2/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnaLaura-2/AnaLaura-2/output/github-contribution-grid-snake.svg">
