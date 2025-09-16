@@ -1,25 +1,24 @@
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
+
 # 👩🏻‍💻 Ana Laura
 
 **`Desenvolvedora FullStack`**
 
 Me chamo Ana Laura Nascimento, 31 anos, natural de Franca-SP. Concluí o ensino médio em 2012 e graduei-me em Arquitetura e Urbanismo entre 2013 e 2017, área na qual adquiri experiência profissional em um curto período, mas sempre gostei muito mais da parte tecnológica da área. Esse interesse, somado à minha afinidade com front-end, me motivou a migrar para a tecologia. Atualmente, curso Análise e Desenvolvimento de Sistemas na Fatec Franca, com previsão de conclusão em dezembro de 2026, e estou cada vez mais dedicada a explorar e aprofundar meus conhecimentos em programação.
 
-<p align="left">
-    <a href="https://github.com/AnaLaura-2?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/AnaLaura-2?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+Este repositório do GitHub é onde compartilho meus projetos, experimentos e jornadas de aprendizado — sinta-se à vontade para explorar e me seguir 🚀👩🏻‍💻
+
+---
+
+<h3 align="left">Connect with me!</h3>
+
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=FF00F6&color:FFF)](mailto:nina.2seok@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/ana-laura-nascimento-silva-203280195/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/analaura__c/)
 
 ---
 
@@ -51,14 +50,6 @@ Me chamo Ana Laura Nascimento, 31 anos, natural de Franca-SP. Concluí o ensino 
 />
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
     alt="React"
     title="React" 
     width="30px" 
@@ -67,59 +58,11 @@ Me chamo Ana Laura Nascimento, 31 anos, natural de Franca-SP. Concluí o ensino 
 />
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
+    alt="Python" 
+    title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
     align="left" 
@@ -131,36 +74,36 @@ Me chamo Ana Laura Nascimento, 31 anos, natural de Franca-SP. Concluí o ensino 
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="PHP" 
+    title="PHP"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
 
 <br/>
 <br/>
 
+---
+
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=AnaLaura-2&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+---
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaLaura-2&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnaLaura-2&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaLAura-2&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</div>
 
-</p>
+---
 
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnaLaura-2&theme=dark&hide_border=true)
+
+---
+
+---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnaLaura-2/AnaLaura-2/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnaLaura-2/AnaLaura-2/output/github-contribution-grid-snake.svg">
