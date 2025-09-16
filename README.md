@@ -88,7 +88,6 @@ Este repositório do GitHub é onde compartilho meus projetos, experimentos e jo
 
 ### 📊 Estatísticas
 
----
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnaLaura-2&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
