@@ -88,9 +88,10 @@ Este repositório do GitHub é onde compartilho meus projetos, experimentos e jo
 
 ### 📊 Estatísticas
 
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnaLaura-2&show_icons=true&theme=tokyonight&hide_border=true" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaLaura-2&layout=compact&theme=tokyonight&hide_border=true" height="205"/>
+  <img src="https://github-readme-stats-custom-five.vercel.app/api?username=AnaLaura-2&show_icons=true&theme=radical&hide_border=true" height="200"/>
+  <img src="https://github-readme-stats-custom-five.vercel.app/api/top-langs/?username=AnaLaura-2&show_icons=true&theme=radical&layout=compact&hide_border=true" height="200"/>
 </div>
 
 ---
