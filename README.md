@@ -63,7 +63,7 @@ Este repositório do GitHub é onde compartilho meus projetos, experimentos e jo
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnaLaura-2&theme=dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AnaLaura-2&theme=dracula&hide_border=true&border_radius=3&short_numbers=true&card_height=130)](https://git.io/streak-stats)
 
 ---
 
