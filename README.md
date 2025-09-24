@@ -30,8 +30,8 @@ Este repositório do GitHub é onde compartilho meus projetos, experimentos e jo
   <img src="https://cdn.simpleicons.org/css/1572B6" height="40" alt="css logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12"/>
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -55,15 +55,15 @@ Este repositório do GitHub é onde compartilho meus projetos, experimentos e jo
 
 
 <div align="center">
-  <img src="https://github-readme-stats-custom-five.vercel.app/api?username=AnaLaura-2&show_icons=true&theme=radical&hide_border=true" height="200"/>
-  <img src="https://github-readme-stats-custom-five.vercel.app/api/top-langs/?username=AnaLaura-2&show_icons=true&theme=radical&layout=compact&hide_border=true" height="205"/>
+  <img src="https://github-readme-stats-custom-five.vercel.app/api?username=AnaLaura-2&show_icons=true&theme=ocean_dark&hide_border=true" height="200"/>
+  <img src="https://github-readme-stats-custom-five.vercel.app/api/top-langs/?username=AnaLaura-2&show_icons=true&theme=ocean_dark&layout=compact&hide_border=true" height="205"/>
 </div>
 
 ---
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AnaLaura-2&theme=dracula&hide_border=true&border_radius=3&short_numbers=true&card_height=130)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=AnaLaura-2&theme=ocean-dark&hide_border=true&border_radius=0&card_height=170)
 
 ---
 
