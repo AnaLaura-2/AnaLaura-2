@@ -4,13 +4,15 @@
   </a>
 </div>
 
-# 👩🏻‍💻 Ana Laura
+**`Estudante de Análise e Desenvolvimento de Sistemas`**
 
-**`Desenvolvedora FullStack`**
-
-Me chamo Ana Laura Nascimento, 32 anos, natural de Franca-SP. Concluí o ensino médio em 2012 e graduei-me em Arquitetura e Urbanismo entre 2013 e 2017, área na qual adquiri experiência profissional em um curto período, mas sempre gostei muito mais da parte tecnológica da área. Esse interesse, somado à minha afinidade com front-end, me motivou a migrar para a tecologia. Atualmente, curso Análise e Desenvolvimento de Sistemas na Fatec Franca, com previsão de conclusão em dezembro de 2026, e estou cada vez mais dedicada a explorar e aprofundar meus conhecimentos em programação.
+Me chamo Ana Laura Nascimento, 32 anos, natural de Franca-SP. Concluí o ensino médio em 2012 e graduei-me em Arquitetura e Urbanismo entre em 2017, área na qual adquiri experiência profissional em um curto período, mas sempre gostei muito mais da parte tecnológica da área. Esse interesse, somado à minha afinidade com front-end, me motivou a migrar para a tecologia. Atualmente, curso Análise e Desenvolvimento de Sistemas na Fatec Franca, com previsão de conclusão em dezembro de 2026, e estou cada vez mais dedicada a explorar e aprofundar meus conhecimentos em programação.
 
 Este repositório do GitHub é onde compartilho meus projetos, experimentos e jornadas de aprendizado — sinta-se à vontade para explorar e me seguir 🚀👩🏻‍💻
+
+<p style="display: inline-block;" align="center">
+<img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/><p align="center">
+</p>
 
 ---
 
@@ -38,6 +40,8 @@ Este repositório do GitHub é onde compartilho meus projetos, experimentos e jo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
