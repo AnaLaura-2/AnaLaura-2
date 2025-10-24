@@ -60,7 +60,7 @@ Este repositório do GitHub é onde compartilho meus projetos, experimentos e jo
 
 <div align="center">
   <img src="https://github-readme-stats-custom-five.vercel.app/api?username=AnaLaura-2&show_icons=true&theme=ocean_dark&hide_border=true" height="200"/>
-  <img src="https://github-readme-stats-custom-five.vercel.app/api/top-langs/?username=AnaLaura-2&show_icons=true&theme=ocean_dark&layout=compact&hide_border=true" height="205"/>
+  <img src="https://github-readme-stats-custom-five.vercel.app/api/top-langs/?username=AnaLaura-2&show_icons=true&theme=ocean_dark&layout=compact&hide_border=true&size_weight=0.5&count_weight=1&langs_count=8&count_private=true" height="205"/>
 </div>
 
 ---
