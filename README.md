@@ -6,9 +6,9 @@
 
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
-Me chamo Ana Laura Nascimento, 32 anos, natural de Franca-SP. Concluí o ensino médio em 2012 e graduei-me em Arquitetura e Urbanismo entre em 2017, área na qual adquiri experiência profissional em um curto período, mas sempre gostei muito mais da parte tecnológica da área. Esse interesse, somado à minha afinidade com front-end, me motivou a migrar para a tecologia. Atualmente, curso Análise e Desenvolvimento de Sistemas na Fatec Franca, com previsão de conclusão em dezembro de 2026, e estou cada vez mais dedicada a explorar e aprofundar meus conhecimentos em programação.
+Me chamo Ana Laura Nascimento, 32 anos, natural de Franca-SP. Graduei-me em Arquitetura e Urbanismo em 2017, área na qual adquiri experiência profissional em um curto período, mas sempre gostei muito mais da parte tecnológica da área. Esse interesse, somado à minha afinidade com front-end, me motivou a migrar para a tecologia. Atualmente, curso Análise e Desenvolvimento de Sistemas na Fatec Franca, com previsão de conclusão em dezembro de 2026, e estou cada vez mais dedicada a explorar e aprofundar meus conhecimentos em programação.
 
-Este repositório do GitHub é onde compartilho meus projetos, experimentos e jornadas de aprendizado — sinta-se à vontade para explorar e me seguir 🚀👩🏻‍💻
+Este repositório do GitHub é onde compartilho meus projetos, experimentos e jornadas de aprendizado, sinta-se à vontade para explorar e me seguir 🚀👩🏻‍💻
 
 <p style="display: inline-block;" align="center">
 <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/><p align="center">
