@@ -26,6 +26,10 @@ Este repositório do GitHub é onde compartilho meus projetos, experimentos e jo
 
 ### 🤖 Linguagens e Tecnologias
 
+<p style="display: inline-block;" align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=80&size=17&pause=2000&color=c77dff&width=1300&height=100&separator=%3C&lines=%F0%9F%91%BE+System.out.println(%22Hello+World%22);" alt="Typing SVG" />
+</p>
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
